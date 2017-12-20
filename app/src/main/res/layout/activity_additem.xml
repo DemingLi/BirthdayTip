@@ -9,7 +9,7 @@
     <TextView
         android:id="@+id/add_name"
         android:text="姓名："
-        android:textSize="20sp"
+        android:textSize="15sp"
         android:layout_marginLeft="20dp"
         android:layout_marginTop="30dp"
         android:gravity="center"
@@ -18,7 +18,7 @@
     <EditText
         android:id="@+id/write_name"
         android:hint="请输入姓名"
-        android:textSize="20sp"
+        android:textSize="15sp"
         android:layout_toRightOf="@+id/add_name"
         android:layout_alignParentRight="true"
         android:layout_alignBottom="@+id/add_name"
@@ -29,7 +29,7 @@
     <TextView
         android:id="@+id/add_birth"
         android:text="生日："
-        android:textSize="20sp"
+        android:textSize="15sp"
         android:layout_marginLeft="20dp"
         android:layout_marginTop="80dp"
         android:gravity="center"
@@ -38,7 +38,7 @@
     <EditText
         android:id="@+id/write_birth"
         android:hint="请输入生日"
-        android:textSize="20sp"
+        android:textSize="15sp"
         android:layout_toRightOf="@+id/add_birth"
         android:layout_alignParentRight="true"
         android:layout_alignBottom="@+id/add_birth"
@@ -49,7 +49,7 @@
     <TextView
         android:id="@+id/add_gift"
         android:text="礼物："
-        android:textSize="20sp"
+        android:textSize="15sp"
         android:layout_marginLeft="20dp"
         android:layout_marginTop="130dp"
         android:gravity="center"
@@ -58,7 +58,7 @@
     <EditText
         android:id="@+id/write_gift"
         android:hint="请输入礼物"
-        android:textSize="20sp"
+        android:textSize="15sp"
         android:layout_toRightOf="@+id/add_gift"
         android:layout_alignParentRight="true"
         android:layout_alignBottom="@+id/add_gift"
@@ -69,7 +69,7 @@
         android:id="@+id/add_item_button"
         android:text="增加"
         android:textColor="#ffffff"
-        android:textSize="20sp"
+        android:textSize="15sp"
         android:background="#32cd32"
         android:layout_marginTop="200dp"
         android:layout_alignParentRight="true"
